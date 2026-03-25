@@ -1,5 +1,5 @@
 package interfazGrafica;
 
-public class Disfraz {
+public class DisfrazGala {
     String tipoDisfraz;
 }
